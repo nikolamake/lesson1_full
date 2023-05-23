@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6fb764e-1840-41c9-b6bd-448b6fa47cf1" name="Changes" comment="lesson2_dz">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lesson1_full.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/0f785022a5dbb066417353e688e6480ff9453829" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/49ef41595ed986bd3bd10553e663033f4983b3f6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/4a3c0db06acdade2000681c24338fae2287651df" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/8f7e3f08c6d9d5b5a76bd8e2a7682edb0c5c7935" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/d34ab25b81699f67a469414d7350fa9b5ccbd864" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/example/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/example/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/example/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/example/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/homework/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/lesson1/example/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/lesson1/example/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/lesson1/example/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/lesson1/example/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/lesson1/example/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/lesson1/example/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/lesson1/example/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/geekbrains/lesson1/homework/lesson1/Hw1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/example/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/example/Ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/example/Ex3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/example/Ex4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lesson2/homework/Hw1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/geekbrains/lesson1/example/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/geekbrains/lesson1/example/Ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/geekbrains/lesson1/example/Ex3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/geekbrains/lesson1/example/Ex4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/geekbrains/lesson1/example/Ex5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/geekbrains/lesson1/example/Ex6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/geekbrains/lesson1/example/Recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ru/geekbrains/lesson1/homework/lesson1/Hw1.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1eaac478-b2e0-4169-837f-f8ab7eb8a008" />
+        <option name="url" value="https://github.com/nikolamake/lesson1_full.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/lesson2/homework/Hw1.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Pyy4U03BoiA1CkRX3Opm2f6Aej" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nikol/OneDrive/Рабочий стол/GeekBrains/Моё обучение/Алгоритмы и структуры данных/семинары/lesson1_full",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nikol\OneDrive\Рабочий стол\GeekBrains\Моё обучение\Алгоритмы и структуры данных\семинары\lesson1_full\src\main\java" />
+      <recent name="C:\Users\user\Desktop\ГикБрэинс\java-алгоритмы\1 сем\lesson1_full\src\main\java\ru\geekbrains\lesson1\example" />
+      <recent name="C:\Users\user\Desktop\ГикБрэинс\java-алгоритмы\1 сем\lesson1_full\src\main\java\ru\geekbrains\lesson1\asd" />
+      <recent name="C:\Users\user\Desktop\ГикБрэинс\java-алгоритмы\1 сем\lesson1_full\src\main\java\ru\geekbrains" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson2.homework" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6fb764e-1840-41c9-b6bd-448b6fa47cf1" name="Changes" comment="" />
+      <created>1684443425134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684443425134</updated>
+      <workItem from="1684443427388" duration="658000" />
+      <workItem from="1684444632765" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson2_dz" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson2_dz" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
